@@ -1,5 +1,4 @@
 ---
-title: "Getting Started with Obsidian"
 date: 2024-10-31
 2024-10-31: 2024-10-31T22:27:00
 tags:
@@ -9,7 +8,7 @@ tags:
 
 ## What is Obsidian?
 
-Obsidian is an open-source notes-taking app available for desktop, mobile and web. It has lots of  notes-taking features that makes creating simple notes easier, such as allowing to create notes using Markdown, with live preview. It also allows organizing notes in hierarchical directory structure.
+Obsidian is an open-source notes-taking app available for desktop, mobile and web. It has lots of  notes-taking features that makes creating simple notes easier, such as allowing to create notes using Markdown, with live preview. It also allows organizing notes in hierchial directory structure.
 
 > *This note discusses my initial Obsidian setup and Obsidian notes-creation process on a Windows desktop.*
 
@@ -43,9 +42,9 @@ Obsidian is an open-source notes-taking app available for desktop, mobile and we
 
 Create Templates to initialize creating new Notes.
 
-1. **General Notes Template:** Create a `"Template"` directory inside the main Obsidian files directory from **step #3**.
+1. **General Notes Template:** Create a `"Template"` directory inside the main Obsidian files directory from **step #3**. 
 	- You may download and use the pre-made Obsidian Notes template files from [link](https://drive.google.com/drive/folders/1Kw_PSggrptWbVdz-JZR0GW6VaGx1lpti?usp=drive_link)
-2. **Daily Notes Template:** Create a `"Daily"` directory inside the main Obsidian files directory from **step #3**.
+2. **Daily Notes Template:** Create a `"Daily"` directory inside the main Obsidian files directory from **step #3**. 
 	- Daily notes will be created in a `"YYYY-MM-DD.md"` file here after clicking on a Note's "date" property, and setting up Obsidian's **Daily Notes** settings.
 	- You may download and use the pre-made Obsidian Daily Notes template files from [link](https://drive.google.com/drive/folders/1hbCvc9IMCnLbRttfsliluRqEccJFGBis?usp=sharing)
 
@@ -75,5 +74,5 @@ Tweak the Obsidian Settings to work with your desired preferences.
 
 ## References
 
-[^1]: [[2024-10-31]]
-[^2]: [[Using Obsidian]]
+[^1]: [[Using Obsidian]]
+[^2]: [[References]]
