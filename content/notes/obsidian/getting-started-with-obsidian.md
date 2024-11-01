@@ -9,7 +9,7 @@ tags:
 
 ## What is Obsidian?
 
-Obsidian is an open-source notes-taking app available for desktop, mobile and web. It has lots of  notes-taking features that makes creating simple notes easier, such as allowing to create notes using Markdown, with live preview. It also allows organizing notes in hierchial directory structure.
+Obsidian is an open-source notes-taking app available for desktop, mobile and web. It has lots of  notes-taking features that makes creating simple notes easier, such as allowing to create notes using Markdown, with live preview. It also allows organizing notes in hierarchical directory structure.
 
 > *This note discusses my initial Obsidian setup and Obsidian notes-creation process on a Windows desktop.*
 
