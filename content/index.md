@@ -6,8 +6,4 @@ date: 2024-11-03
 aliases:
   - Home Page
   - Home
-tags:
-  - home
 ---
-- [[notes/index|Notes]]
-- [[random notes/index|Random Notes]]

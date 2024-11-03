@@ -14,7 +14,7 @@ tags:
 
 It's possible to delete forked Git repositories (tested on GitHub) using the following methods by the following actors:
 
-- 🤵 **Owner** - GitHub repository owner
+- 🤵 **Owner** - GitHub code repository owner
 - 🧑‍🤝‍🧑 **Collaborator** - GitHub user invited by the code Owner to collaborate in the repository
 - 🧑‍💻 **Forker** (non-Collaborator) - GitHub users with access to public GitHub repositories. They do not require a Collaborator invite by Owners
 
@@ -25,7 +25,7 @@ It's possible to delete forked Git repositories (tested on GitHub) using the fol
    - 🤵 The Owner deletes the **`public`** repo
    - ✅ ***Forker retains the forked `public` repo***
 
-2. **With collaborator invite**
+2. **With Collaborator invite**
    - 🤵 The Owner invites a 🧑‍🤝‍🧑 Collaborator to a **`"public"`** repo
    - 🧑‍🤝‍🧑 The Collaborator forks the **`public`** repo
    - 🤵 The Owner deletes the **`public`** repo
@@ -33,7 +33,7 @@ It's possible to delete forked Git repositories (tested on GitHub) using the fol
 
 ### 🚫 Private Git Repository
 
-1. **With collaborator invite**
+1. **With Collaborator invite**
    - 🤵 Owner invites a 🧑‍🤝‍🧑 Collaborator to a **`"private"`** repo
    - 🧑‍🤝‍🧑 Collaborator forks the **`private`** repo
    - 🤵 Owner deletes the **`private`* repo

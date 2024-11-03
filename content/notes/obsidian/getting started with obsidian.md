@@ -28,14 +28,14 @@ Obsidian is an open-source notes-taking app available for desktop, mobile and we
 	`D:\Angel\Obsidian`
 3. Enter the vault name in which to store Obsidian notes within the directory in step #2. Obsidian will create this directory if it does not yet exist. For example, I am going to use the **VaultWeaponsforge** directory name
 	`D:\Angel\Obsidian\VaultWeaponsforge`
-	
+
 ### Create Templates
 
 Create Templates to initialize creating new Notes.
 
-1. **General Notes Template:** Create a `"Template"` directory inside the main Obsidian files directory from **step #3**. 
+1. **General Notes Template:** Create a `"Template"` directory inside the main Obsidian files directory from **step #3**.
 	- You may download and use the pre-made Obsidian Notes template files from [link](https://drive.google.com/file/d/19nFCXQFle9VdR8IVlxjhvkVBX15yCuBz/view?usp=sharing)
-2. **Daily Notes Template:** Create a `"Daily"` directory inside the main Obsidian files directory from **step #3**. 
+2. **Daily Notes Template:** Create a `"Daily"` directory inside the main Obsidian files directory from **step #3**.
 	- Daily notes will be created in a `"YYYY-MM-DD.md"` file here after clicking on a Note's "date" property, and setting up Obsidian's **Daily Notes** settings.
 	- You may download and use the pre-made Obsidian Daily Notes template files from [link](https://drive.google.com/file/d/1fGSSFIWnK4eTBDFZNy3T21OCu2vSwXnh/view?usp=sharing)
 
@@ -67,5 +67,6 @@ Tweak the Obsidian Settings to work with your desired preferences.
 
 ## References
 
-- [[using obsidian]]
-- [[references]]
+- [[notes/obsidian/index|Obsidian]]
+- [[using obsidian|Using Obsidian]]
+- [[references|Obsidian References]]

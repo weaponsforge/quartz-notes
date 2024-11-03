@@ -10,3 +10,6 @@ tags:
   - ts
 ---
 TypeScript notes and topics
+
+## References
+- [[notes/index|Notes]]

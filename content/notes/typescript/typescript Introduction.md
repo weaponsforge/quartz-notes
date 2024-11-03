@@ -15,4 +15,4 @@ TypeScript is a static compile-time type checker. It ensures type-safety, helpin
 ## References
 
 - [[notes/typescript/index|TypeScript]]
-- [[typescript references]]
+- [[typescript references|TypeScript References]]

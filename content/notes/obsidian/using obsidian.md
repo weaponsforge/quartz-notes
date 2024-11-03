@@ -32,5 +32,6 @@ This Obsidian usage notes carry on from [[getting started with obsidian]].
 
 ## References
 
-- [[getting started with obsidian]]
-- [[references]]
+- [[notes/obsidian/index|Obsidian]]
+- [[getting started with obsidian|Getting Started with Obsidian]]
+- [[references|Obsidian References]]

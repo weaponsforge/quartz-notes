@@ -10,3 +10,6 @@ tags:
   - notes-app
 ---
 Notes and information about Obsidian.
+
+## References
+- [[notes/index|Notes]]

@@ -5,10 +5,6 @@ date: 2024-11-03
 2024-10-31: 2024-11-03T03:52:00
 aliases:
   - notes
-tags:
-  - notes
 ---
 ## References
 - [[index|Home Page]]
-- [[references|Obsidian]]
-- [[typescript references|TypeScript]]

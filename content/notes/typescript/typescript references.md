@@ -9,9 +9,8 @@ aliases:
 tags:
   - typescript
   - ts
-  - references
 ---
 ## References
 
 - [[notes/typescript/index|TypeScript]]
-- [[typescript Introduction]]
+- [[typescript Introduction|TypeScript Introduction]]

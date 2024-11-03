@@ -9,7 +9,6 @@ aliases:
 tags:
   - obsidian
   - notes-app
-  - references
 ---
 ## About
 
@@ -44,5 +43,6 @@ This page contains notes and references about Obsidian tools, plugins and genera
 - [Data Dictionary 🧠](https://glossary.airbyte.com/)
 ### References
 
-- [[getting started with obsidian]]
-- [[using obsidian]]
+- [[notes/obsidian/index|Obsidian]]
+- [[getting started with obsidian|Getting Started with Obsidian]]
+- [[using obsidian|Using Obsidian]]
