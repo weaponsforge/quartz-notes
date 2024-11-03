@@ -10,7 +10,12 @@ tags:
   - typescript
   - ts
 ---
+
+<style> code { color: #FFAF23; background: #A20B6A; } </style>
+
 TypeScript is a static compile-time type checker. It ensures type-safety, helping catch bugs at compile-time rather than at runtime.
+
+**`JavaScript`**
 
 ## References
 

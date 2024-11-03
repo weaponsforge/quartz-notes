@@ -24,6 +24,11 @@ td, th {
   white-space:pre-wrap;
 }
 
+// Set the desktop search preview results to full container width
+#preview-container {
+  width: 100%;
+}
+
 // Copy styles from older versions to fix mobile search preview
 .search {
   & > #search-container {
