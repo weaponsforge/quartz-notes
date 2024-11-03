@@ -1,13 +1,18 @@
 ---
+title: "Using Obsidian"
+description: "Notes on using Obsidian"
 date: 2024-10-31
 2024-10-31: 2024-10-31T23:57:00
+aliases:
+  - Obsidian
+  - Using Obsidian
 tags:
   - obsidian
   - notes-app
 ---
 ## About
 
-This Obsidian usage notes carry on from [[Getting Started with Obsidian]].
+This Obsidian usage notes carry on from [[getting started with obsidian]].
 
 ## Using Obsidian
 
@@ -18,7 +23,7 @@ This Obsidian usage notes carry on from [[Getting Started with Obsidian]].
 	- This will create an "Untitled" new Note.
 3. Click to select the "Untitled" new Note in the sidebar.
 4. Click the **"Insert Template button"** in the sidebar. This button has a "copy"-like icon.
-	- Select the `"NotesTemplate"` to initialize the blank note with the pre-made Notes template content. 
+	- Select the `"NotesTemplate"` to initialize the blank note with the pre-made Notes template content.
 5. Update the Notes content.
 
 ### Creating a Daily Note
@@ -29,5 +34,5 @@ This Obsidian usage notes carry on from [[Getting Started with Obsidian]].
 
 ## References
 
-[^1]: [[Getting Started with Obsidian]]
-[^2]: [[References]]
+- [[getting started with obsidian]]
+- [[references]]
