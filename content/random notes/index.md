@@ -6,5 +6,5 @@ date: 2024-11-03
 aliases:
   - Random Notes
 ---
-## References
-- [[index|Home Page]]
+**References**
+<sup>[[index|Home Page]]</sup>

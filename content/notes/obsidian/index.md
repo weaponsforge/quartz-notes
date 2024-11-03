@@ -11,5 +11,5 @@ tags:
 ---
 Notes and information about Obsidian.
 
-## References
-- [[notes/index|Notes]]
+**References**
+<sup>[[notes/index|Notes]]</sup>
