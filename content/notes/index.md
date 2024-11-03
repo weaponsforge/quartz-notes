@@ -8,4 +8,7 @@ aliases:
 tags:
   - notes
 ---
-Add notes here
+## References
+- [[index|Home Page]]
+- [[references|Obsidian]]
+- [[typescript references|TypeScript]]

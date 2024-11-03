@@ -30,6 +30,7 @@ This page contains notes and references about Obsidian tools, plugins and genera
 - [Quartz Documentation (this site!)](https://quartz.jzhao.xyz/)
 - [Sideny's 3D Artist's Handbook](https://sidney-eliot.github.io/3d-artists-handbook/)
 - [Morrowind Modding Wiki](https://morrowind-modding.github.io/)
+- [TES3CS Docs](https://tes3cs.pages.dev/)
 - [Pelayo Arbues' Notes](https://pelayoarbues.com/)
 - [Stanford CME 302 Numerical Linear Algebra](https://ericdarve.github.io/NLA/)
 - [Pedro MC Fernandes's Topo da Mente](https://www.pmcf.xyz/topo-da-mente/)
