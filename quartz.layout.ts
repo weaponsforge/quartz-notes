@@ -33,6 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
     }))
   ],
   right: [
+    Component.Graph(),
     Component.MobileOnly(Component.Explorer({
       folderClickBehavior: "link",
       filterFn: (node) => node.name !== "templates",
