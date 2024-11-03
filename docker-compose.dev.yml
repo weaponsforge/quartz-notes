@@ -12,8 +12,7 @@ services:
       dockerfile: Dockerfile
       target: development
     volumes:
-      - ./content:/usr/src/app/content
+      - .:/usr/src/app
       - /usr/src/app/node_modules
-      - ./public:/usr/src/app/public
     ports:
       - "8080:8080"

@@ -34,12 +34,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.MobileOnly(Component.Explorer({
-      folderClickBehavior: "link",
-      filterFn: (node) => node.name !== "templates",
-    })),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 
@@ -56,12 +52,5 @@ export const defaultListPageLayout: PageLayout = {
       filterFn: (node) => node.name !== "templates",
     }))
   ],
-  right: [
-    Component.MobileOnly(Component.Explorer({
-      folderClickBehavior: "link",
-      filterFn: (node) => node.name !== "templates",
-    })),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ]
+  right: [],
 }

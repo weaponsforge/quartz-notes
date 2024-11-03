@@ -1,3 +1,67 @@
 @use "./base.scss";
 
+// Old breakpoints
+$tabletBreakpoint: 1000px;
+
 // put your custom CSS here!
+img, iframe{
+	border-radius: 12px;
+}
+
+table {
+  border: 1px solid gray;
+  width: 100%;
+  padding: 1.5em;
+  border-collapse: collapse;
+  width: auto;
+  table-layout: fixed;
+}
+
+td, th {
+  padding: 0.2em 1em;
+  border: 1px solid gray;
+  word-wrap: break-word;
+  white-space:pre-wrap;
+}
+
+// Copy styles from older versions to fix mobile search preview
+.search {
+  & > #search-container {
+    & > #search-space {
+      & > #search-layout {
+        @media all and (min-width: $tabletBreakpoint) {
+          &[data-preview] {
+            & .result-card > p.preview {
+              display: none;
+            }
+
+            & > div {
+              &:first-child {
+                border-right: 1px solid var(--lightgray);
+                border-top-right-radius: unset;
+                border-bottom-right-radius: unset;
+              }
+
+              &:last-child {
+                border-top-left-radius: unset;
+                border-bottom-left-radius: unset;
+              }
+            }
+          }
+        }
+
+        @media all and (max-width: $tabletBreakpoint) {
+          & > #preview-container {
+            display: none !important;
+          }
+
+          &[data-preview] > #results-container {
+            width: 100%;
+            height: auto;
+            flex: 0 0 100%;
+          }
+        }
+      }
+    }
+  }
+}
