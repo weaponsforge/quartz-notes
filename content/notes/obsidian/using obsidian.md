@@ -14,8 +14,6 @@ tags:
 
 This Obsidian usage notes carry on from [[getting started with obsidian]].
 
-## Using Obsidian
-
 ### Creating a New Note
 
 1. Create folders or nested folders in the sidebar in which to put new Notes as necessary.

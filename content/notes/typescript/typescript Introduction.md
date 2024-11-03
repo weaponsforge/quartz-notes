@@ -11,3 +11,8 @@ tags:
   - ts
 ---
 TypeScript is a static compile-time type checker. It ensures type-safety, helping catch bugs at compile-time rather than at runtime.
+
+## References
+
+- [[notes/typescript/index|TypeScript]]
+- [[typescript references]]

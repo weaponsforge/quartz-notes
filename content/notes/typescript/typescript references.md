@@ -11,3 +11,7 @@ tags:
   - ts
   - references
 ---
+## References
+
+- [[notes/typescript/index|TypeScript]]
+- [[typescript Introduction]]
