@@ -7,3 +7,6 @@ aliases:
   - Home Page
   - Home
 ---
+## Welcome to Quartz Notes
+
+This contains several local notes for sampling using [Quartz](https://github.com/jackyzha0/quartz)
