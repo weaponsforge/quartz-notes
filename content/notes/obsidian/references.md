@@ -15,6 +15,7 @@ tags:
 This page contains notes and references about Obsidian tools, plugins and general news.
 
 ### Obsidian to Website
+
 - Quartz [link](https://github.com/jackyzha0/quartz)
 - Digital Garden Jekyll [link](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 - Obsidian Publish [link](https://obsidian.md/publish)
@@ -24,6 +25,7 @@ This page contains notes and references about Obsidian tools, plugins and genera
 - MkDocs [link](https://www.mkdocs.org/)
 
 ### Quartz Showcase
+
 (With reference from the [Quartz Showcase](https://quartz.jzhao.xyz/showcase))
 
 - [Quartz Documentation (this site!)](https://quartz.jzhao.xyz/)
@@ -41,6 +43,7 @@ This page contains notes and references about Obsidian tools, plugins and genera
 - [🧠🌳 Chad's Mind Garden](https://www.chadly.net/)
 - [A Pattern Language - Christopher Alexander (Architecture)](https://patternlanguage.cc/)
 - [Data Dictionary 🧠](https://glossary.airbyte.com/)
+
 ### References
 
 - [[notes/obsidian/index|Obsidian]]
